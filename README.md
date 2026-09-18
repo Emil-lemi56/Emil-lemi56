@@ -86,8 +86,6 @@ Configuración de un servidor **Dell PowerEdge T320** con un stack multi-servici
 
 </div>
 
-> Reemplaza `Emil-lemi56` por tu nombre de usuario real de GitHub en los dos enlaces de arriba.
-
 ---
 
 ## 📫 Contacto
