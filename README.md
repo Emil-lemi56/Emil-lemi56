@@ -13,7 +13,6 @@ Redes · Hardening de Sistemas · Monitoreo de Seguridad · Respuesta a Incident
 ## 🎯 Sobre mí
 
 - 🎓 Estudiando **Ciberseguridad (TEP)** en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**
-- 💼 Realizando mi **Práctica Profesional I** en el departamento de **IT/Networking** de una empresa de producción de TV y radio, trabajando en diseño de infraestructura, configuración de servidores y seguridad de red
 - 🛡️ Enfocado en **seguridad defensiva**: análisis de tráfico, detección de amenazas e ingeniería de reglas
 - 🧪 Construyendo laboratorios propios para desarrollar habilidades de analista **SOC** de forma autodidacta
 - 📍 República Dominicana
