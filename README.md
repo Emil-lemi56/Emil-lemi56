@@ -78,11 +78,7 @@ Configuración de un servidor **Dell PowerEdge T320** con un stack multi-servici
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Emil-lemi56&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-lemi56&layout=compact&theme=tokyonight&hide_border=true)
+PP
 
 </div>
 
