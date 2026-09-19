@@ -62,16 +62,16 @@ Pruebas de vulnerabilidades web (inyección SQL, DVWA), metodología OWASP Top 1
 
 ## 📂 Proyectos Destacados
 
-### 🔎 SOC AIO Lab
+### 🔎 SOC AIO Lab ✅
 Despliegue de **Wazuh + Suricata + Zeek** en un solo nodo (Ubuntu Server 24.04), con un runbook de respuesta a incidentes de 8 fases y 40 reglas de detección (20 Suricata + 20 Zeek) mapeadas a **MITRE ATT&CK**.
 
-### 🧪 DVWA – Laboratorio de Inyección SQL
+### 🧪 DVWA – Laboratorio de Inyección SQL ⚠️
 Explotación y análisis de una inyección SQL contra **Metasploitable2** en un entorno aislado (VirtualBox, host-only), con captura completa de tráfico en **Wireshark** y reporte de laboratorio formal.
 
-### 🌐 Segmentación VLAN Empresarial
+### 🌐 Segmentación VLAN Empresarial ⚠️
 Diseño y configuración de una arquitectura de red segmentada por VLANs en múltiples pisos, usando **MikroTik** y switches **Catalyst 3850/2960-S**, con bloques de puertos por VLAN, enlaces trunk definidos y reglas de firewall con Address Lists para el control de tráfico inter-VLAN.
 
-### 🖥️ Infraestructura de Servidores
+### 🖥️ Infraestructura de Servidores ⚠️
 Configuración de un servidor **Dell PowerEdge T320** con un stack multi-servicio (TrueNAS, PostgreSQL, Docker, Grafana, n8n) para soportar operaciones internas de medios y transmisión.
 
 ---
