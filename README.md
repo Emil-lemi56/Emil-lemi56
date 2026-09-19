@@ -15,7 +15,7 @@ Redes · Hardening de Sistemas · Monitoreo de Seguridad · Respuesta a Incident
 - 🎓 Estudiando **Ciberseguridad (TEP)** en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**
 - 🛡️ Enfocado en **seguridad defensiva**: análisis de tráfico, detección de amenazas e ingeniería de reglas
 - 🧪 Construyendo laboratorios propios para desarrollar habilidades de analista **SOC** de forma autodidacta
-- 📍 República Dominicana
+- 📍 República Dominicana Santo Domingo
 
 ---
 
